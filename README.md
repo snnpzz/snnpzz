@@ -1,5 +1,8 @@
 ### Hello, World!
 
+[![GitHub](https://img.shields.io/badge/GitHub-%40snnpzz-informational)](https://github.com/snnpzz)
+[![Twitter](https://img.shields.io/badge/Twitter-%40snnpzz-informational)](https://twitter.com/snnpzz)
+
 <!--
 **snnpzz/snnpzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
